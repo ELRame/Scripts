@@ -7,7 +7,7 @@ MIPHOv0.1
 
 Script Python para realizar escaneo de red local y de acuerdo al listado de ip's identificar el hostname del dispositivo.
 
-![MIPHO2](https://user-images.githubusercontent.com/82544416/175388056-c37eb939-ee48-4aba-965d-e33b51d28a82.png)
+
 
 Version 0.1 en desarrollo. 
 
